@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-tlv)36c^h%me#0j)!67193036i0(q!%)rm_9k19_&32jf9!t3b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://vercel.com/fabrizio-acostas-projects/tarea-vercel/DB8g8BU7nyu4qtJo52Zpk7Yrpgb9", 'aws-0-us-east-1.pooler.supabase.com']
 
 
 # Application definition
